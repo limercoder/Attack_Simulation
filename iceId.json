@@ -1,0 +1,14 @@
+"file": {
+    "sha256_hash": "26b11c95a6a324dbb0ab32428361b0531234ecee",
+    "file_path": "AppData\\Local\\Temp",
+    "file_name": "easygoing", "file_name1": "iceID", "file_name2": "Bokbot",
+    "file_extension": [".dat", ".exe", ".dll"]
+    "file_mimetype": "aplication",
+    "delivery__method": ["email","web"]
+    "mw_family": "Trojans",
+    "mw_threat": ["remote control", "password steal", "spy", "dropper"],
+    "mw_campaign": ["email spam"]
+    "mw_group": ["OnePercent", "Shatak"],
+    "report_link": ["https://twitter.com/TheDFIRReport/status/1642861957093916672, https://thedfirreport.com/2023/04/03/malicious-iso-file-leads-to-domain-wide-ransomware/, https://malpedia.caad.fkie.fraunhofer.de/details/win.icedid", "https://www.pcrisk.com/removal-guides/14542-icedid-trojan"]
+    "episode": "В этом инциденте не было использовано полного функционала IceId, использовался только для закрепления в системе и в роли dropfile"
+}
