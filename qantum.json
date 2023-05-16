@@ -4,7 +4,7 @@
     "file_name": "Qantum",
     "file_extension": ".exe",
     "file_mimetype": "application",
-    "delivery__method": "email" "remote access",
+    "delivery__method": "email","remote access",
     "mw_family": "ransomware",
     "mw_threat": ["encryption"],
     "mw_campaign": ["email spam", "post-exploitation"],
