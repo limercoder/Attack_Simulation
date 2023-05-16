@@ -1,0 +1,14 @@
+file": {
+    "sha256_hash": "a39b9119003c63583e2a0f11f19f3e6050399176",
+    "file_path": "C:\\locker_64.exe",
+    "file_name": "Qantum",
+    "file_extension": ".exe",
+    "file_mimetype": "application",
+    "delivery__method": "email" "remote access",
+    "mw_family": "ransomware",
+    "mw_threat": ["encryption"],
+    "mw_campaign": ["email spam", "post-exploitation"],
+    "mw_group": ["Quantum"],
+    "report_link": ["https://darktrace.com/blog/when-speedy-attacks-arent-enough-prolonging-quantum-ransomware,", "https://thedfirreport.com/2022/04/25/quantum-ransomware/", "https://cybernews.com/security/quantum-ransomware-gang-fast-and-furious/"]
+    "PS": "Список пока что неполный, будут обновления"
+}
