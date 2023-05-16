@@ -4,7 +4,7 @@
     "file_name": "easygoing", "file_name1": "iceID", "file_name2": "Bokbot",
     "file_extension": [".dat", ".exe", ".dll"]
     "file_mimetype": "aplication",
-    "delivery__method": ["email","web"]
+    "delivery__method": "email",
     "mw_family": "Trojans",
     "mw_threat": ["remote control", "password steal", "spy", "dropper"],
     "mw_campaign": ["email spam"]
